@@ -1,5 +1,5 @@
 html {
-    background-color: #FFC04C;
+    background-color: rgb(230, 119, 252);
 }
 
 body {
@@ -34,12 +34,12 @@ h1 {
     width: 100%;
     margin: 10px;
     padding: 10px;
-    background-color: #b7ffc2;
+    background-color: #d39df3;
     border: none;
 }
 
 .burgerAvailable:hover {
-    background-color: #81ff94;
+    background-color: #d39df3;
 }
 
 .burgerEaten {
@@ -62,7 +62,7 @@ h2 {
 }
 
 .formContainer {
-    background-color: orange;
+    background-color: rgb(255, 0, 234);
 }
 
 .addBurgerButton {
@@ -75,15 +75,15 @@ h2 {
     width: 100%;
     margin: 0;
     padding: 10px;
-    background-color: #FFC04C;
+    background-color: rgb(230, 119, 252);;
     border: none;
 }
 
 .addBurgerButton:active {
-   background-color: #FFC04C;
+   background-color: rgb(230, 119, 252);
 }
 
 .burgerFooter {
-   background-color: #FFC04C;
+   background-color: rgb(230, 119, 252);
    padding: 20px 0;
 }
